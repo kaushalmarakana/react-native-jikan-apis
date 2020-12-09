@@ -126,7 +126,7 @@ class HomePage extends PureComponent {
   constructor(props) {
     super(props);
     this.state = {
-      searchText: "Nar",
+      searchText: "Naruto",
       results: [],
       loading: false,
       err: "",
